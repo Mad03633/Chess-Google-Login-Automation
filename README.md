@@ -26,4 +26,7 @@ This Python script automates the login process to **Chess.com** using **Google**
     - Open chess.com and navigate to the login page.
     - Select the **Login with Google** option.
     - Enter your email and password for Google.
-    - Log into chess.com
+    - Log into chess.com.
+
+2. **Succes message**:
+    Once succesfully logged in, you'll see a message saying "chess.com login succesfully".
